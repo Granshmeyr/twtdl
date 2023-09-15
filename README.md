@@ -1,7 +1,7 @@
 
 # twtdl
 
-> Download Twitch VODs and burn chat with one command.
+> Download Twitch VODs and burn chat with one command
 
 twtdl is a bare-bones wrapper used to trivialize VOD + chat rendering for offline viewing.
 
